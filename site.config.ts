@@ -17,7 +17,7 @@ export default siteConfig({
   description: 'Example Next.js Notion Starter Kit Site',
 
   // social usernames (optional)
-  twitter: 'Techsemi_ons',
+  twitter: 'Techsemi_on',
   github: 'rt23456p',
   linkedin: 'rui-liang-21b97921b',
   // newsletter: '#', // optional newsletter URL
